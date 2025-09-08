@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2025-09-08T10:00:00Z",
+  "updatedAt": "2025-09-08T07:13:11.444269+00:00",
   "components": [
     {
       "name": "Public Website (Global)",
@@ -8,7 +8,14 @@
     {
       "name": "Public Website (KSA)",
       "status": "operational",
-      "availability": 0.9995
+      "p95_load_ms": null,
+      "ttfb_ms": null,
+      "availability": 1.0
+    },
+    {
+      "name": "Publishing Pipeline",
+      "status": "operational",
+      "last_publish_age_h": 3
     }
   ],
   "incidents": [],
