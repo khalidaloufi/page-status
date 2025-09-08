@@ -1,0 +1,16 @@
+{
+  "updatedAt": "2025-09-08T10:00:00Z",
+  "components": [
+    {
+      "name": "Public Website (Global)",
+      "status": "operational"
+    },
+    {
+      "name": "Public Website (KSA)",
+      "status": "operational",
+      "availability": 0.9995
+    }
+  ],
+  "incidents": [],
+  "uptime": []
+}

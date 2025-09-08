@@ -1,0 +1,1 @@
+console.log('Status page script loaded');
